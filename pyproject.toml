@@ -12,7 +12,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "*"
 dictor = "==0.1.11"
-pyjwt = "==2.7.0"
+pyjwt = "==2.9.0"
 pysaml2 = "==7.4.2"
 setuptools = ">=67.8.0"
 
